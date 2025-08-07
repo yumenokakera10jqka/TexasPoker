@@ -1,0 +1,20 @@
+<screen name="tableScreen" rowsize="3">
+	<row name="row1" colsize="2">
+		<col name="space1" width="10" align="right"></col>
+		<col name="message" width="50" align="left"></col>
+	</row>
+	<row name="row2" colsize="2">
+		<col name="space3" width="61" align="right"></col>
+		<col name="titlePot" width="10" align="right"></col>
+	</row>
+	<row name="row3" colsize="8">
+		<col name="space4" width="10" align="right"></col>
+		<col name="tableCard1" width="11" align="left"></col>
+		<col name="tableCard2" width="11" align="left"></col>
+		<col name="tableCard3" width="11" align="left"></col>
+		<col name="tableCard4" width="11" align="left"></col>
+		<col name="tableCard5" width="11" align="left"></col>
+		<col name="space5" width="1" align="right"></col>
+		<col name="pot" width="10" align="right"></col>
+	</row>
+</screen>

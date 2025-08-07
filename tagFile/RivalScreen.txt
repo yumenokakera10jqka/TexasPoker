@@ -1,0 +1,41 @@
+<screen name="rivalScreen" rowsize="6">
+	<row name="row1" colsize="4">
+		<col name="titleName" width="13" align="right"></col>
+		<col name="cpu1Name" width="22" align="right"></col>
+		<col name="cpu2Name" width="22" align="right"></col>
+		<col name="cpu3Name" width="22" align="right"></col>
+	</row>
+	<row name="row2" colsize="4">
+		<col name="titleChip" width="13" align="right"></col>
+		<col name="cpu1Chip" width="22" align="right"></col>
+		<col name="cpu2Chip" width="22" align="right"></col>
+		<col name="cpu3Chip" width="22" align="right"></col>
+	</row>
+	<row name="row3" colsize="4">
+		<col name="titleBet" width="13" align="right"></col>
+		<col name="cpu1Bet" width="22" align="right"></col>
+		<col name="cpu2Bet" width="22" align="right"></col>
+		<col name="cpu3Bet" width="22" align="right"></col>
+	</row>
+	<row name="row4" colsize="7">
+		<col name="titleHand" width="13" align="right"></col>
+		<col name="cpu1Hand1" width="14" align="right"></col>
+		<col name="cpu1Hand2" width="8" align="right"></col>
+		<col name="cpu2Hand1" width="14" align="right"></col>
+		<col name="cpu2Hand2" width="8" align="right"></col>
+		<col name="cpu3Hand1" width="14" align="right"></col>
+		<col name="cpu3Hand2" width="8" align="right"></col>
+	</row>
+	<row name="row5" colsize="4">
+		<col name="titleAction" width="13" align="right"></col>
+		<col name="cpu1Action" width="22" align="right"></col>
+		<col name="cpu2Action" width="22" align="right"></col>
+		<col name="cpu3Action" width="22" align="right"></col>
+	</row>
+	<row name="row6" colsize="4">
+		<col name="titleState" width="13" align="right"></col>
+		<col name="cpu1State" width="22" align="right"></col>
+		<col name="cpu2State" width="22" align="right"></col>
+		<col name="cpu3State" width="22" align="right"></col>
+	</row>
+</screen>

@@ -1,0 +1,45 @@
+<screen name="playerScreen" rowsize="6">
+	<row name="row1" colsize="4">
+		<col name="titleName" width="13" align="right"></col>
+		<col name="playerName" width="22" align="right"></col>
+		<col name="space1" width="10" align="right"></col>
+		<col name="actionMenu1" width="20" align="left"></col>
+		<col name="space2" width="10" align="right"></col>
+	</row>
+	<row name="row2" colsize="4">
+		<col name="titleChip" width="13" align="right"></col>
+		<col name="playerChip" width="22" align="right"></col>
+		<col name="space3" width="10" align="right"></col>
+		<col name="actionMenu2" width="20" align="left"></col>
+		<col name="space4" width="10" align="right"></col>
+	</row>
+	<row name="row3" colsize="4">
+		<col name="titleBet" width="13" align="right"></col>
+		<col name="playerBet" width="22" align="right"></col>
+		<col name="space5" width="10" align="right"></col>
+		<col name="actionMenu3" width="20" align="left"></col>
+		<col name="space6" width="10" align="right"></col>
+	</row>
+	<row name="row4" colsize="5">
+		<col name="titleHand" width="13" align="right"></col>
+		<col name="playerHand1" width="14" align="right"></col>
+		<col name="playerHand2" width="8" align="right"></col>
+		<col name="space7" width="10" align="right"></col>
+		<col name="actionMenu4" width="20" align="left"></col>
+		<col name="space8" width="10" align="right"></col>
+	</row>
+	<row name="row5" colsize="4">
+		<col name="titleAction" width="13" align="right"></col>
+		<col name="playerAction" width="22" align="right"></col>
+		<col name="space9" width="10" align="right"></col>
+		<col name="actionMenu5" width="20" align="left"></col>
+		<col name="space10" width="10" align="right"></col>
+	</row>
+	<row name="row6" colsize="4">
+		<col name="titleState" width="13" align="right"></col>
+		<col name="playerState" width="22" align="right"></col>
+		<col name="space11" width="10" align="right"></col>
+		<col name="actionMenu6" width="20" align="left"></col>
+		<col name="space12" width="10" align="right"></col>
+	</row>
+</screen>
